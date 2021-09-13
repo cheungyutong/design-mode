@@ -17,8 +17,4 @@ public class SimpleFactory {
         return null;
     }
 
-    public enum EnumProductType {
-        activityOne, activityTwo;
-    }
-
 }

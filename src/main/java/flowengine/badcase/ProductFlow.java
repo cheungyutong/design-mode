@@ -1,4 +1,4 @@
-package factory.simplefactory.flowengine.badcase;
+package flowengine.badcase;
 
 /**
  * @Author cheungyutong

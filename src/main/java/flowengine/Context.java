@@ -1,4 +1,4 @@
-package factory.simplefactory.flowengine;
+package flowengine;
 
 import java.util.HashMap;
 import java.util.Map;

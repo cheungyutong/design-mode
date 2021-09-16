@@ -1,4 +1,4 @@
-package factory.simplefactory.flowengine;
+package flowengine;
 
 import org.apache.commons.lang.StringUtils;
 

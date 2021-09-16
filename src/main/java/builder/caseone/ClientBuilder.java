@@ -1,4 +1,4 @@
-package builder;
+package builder.caseone;
 
 import java.util.ArrayList;
 import java.util.List;

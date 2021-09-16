@@ -1,4 +1,4 @@
-package builder;
+package builder.caseone;
 
 /**
  * @Author cheungyutong

@@ -9,6 +9,8 @@ import java.util.List;
  */
 public class BmwBuilder extends CarBuilder {
 
+    private final static String FLAG = "TEST BUILDER";
+
     private BmwModel bmw = new BmwModel();//宝马车实例
 
     @Override

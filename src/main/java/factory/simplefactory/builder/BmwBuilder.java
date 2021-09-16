@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * @Author cheungyutong
  * @Date 2021/9/15 21:46
- * @Deprecation
+ * @Deprecation 建造者
  */
 public class BmwBuilder extends CarBuilder {
 
